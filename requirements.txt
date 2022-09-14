@@ -1,9 +1,10 @@
 Flask
-gunicorn
+jsonify
 numpy
-scipy
+requests
 scikit-learn
-matplotlib
-pandas
+scipy
+sklearn
 seaborn
-pickle
+matplotlib
+gunicorn
